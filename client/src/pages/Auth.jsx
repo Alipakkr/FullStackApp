@@ -199,22 +199,6 @@ const Auth = () => {
                                             }
                                         </div>
                                     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                                     {
                                         page == 'register_otp'
                                         &&
@@ -237,21 +221,6 @@ const Auth = () => {
                                             }
                                         </div>
                                     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                                     {
                                         page == 'login' &&
                                         <div className="flex flex-col  justify-between items-center gap-[1rem] w-full " >
@@ -286,22 +255,6 @@ const Auth = () => {
                                             }
                                         </div>
                                     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

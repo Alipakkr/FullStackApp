@@ -21,7 +21,6 @@ const otpSchema = Schema({
 
     // After 5 minutes, it will be deleted from database automatically
 }, { timestamps: true })
-
 const otpModel = model('OTP', otpSchema)
 
 export default otpModel
